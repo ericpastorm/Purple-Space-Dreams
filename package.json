@@ -1,0 +1,21 @@
+{
+  "name": "purple-space-dreams",
+  "displayName": "Purple Space Dreams",
+  "description": "A spacey purple Y2K vibrant theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Space Dreams",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Space Dreams-color-theme.json"
+      }
+    ]
+  }
+}
