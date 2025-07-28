@@ -2,7 +2,13 @@
   "name": "purple-space-dreams",
   "displayName": "Purple Space Dreams",
   "description": "A spacey purple Y2K vibrant theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "ericpastorm",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/nombre-del-repo.git"
+  },
   "engines": {
     "vscode": "^1.102.0"
   },
