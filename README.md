@@ -1,16 +1,54 @@
-# purple-space-dreams README
+# Purple Space Dreams 🚀
 
-## Working with Markdown
+A vibrant theme for Visual Studio Code inspired by Y2K aesthetics and space. Perfect if you enjoy coding with a touch of purple nostalgia.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshots
 
-## For more information
+Here's how **Purple Space Dreams** looks in action.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**JavaScript / TypeScript**
+![JavaScript Screenshot](./screenshots/javascript.png)
 
-**Enjoy!**
+**HTML & CSS**
+![HTML and CSS Screenshot](./screenshots/html-css.png)
+
+*(Note: You will need to create a `screenshots` folder in your project and add your own screenshots with these filenames for them to appear here.)*
+
+---
+
+## Installation
+
+1.  Open the **Extensions** sidebar in VS Code (`Ctrl+Shift+X`).
+2.  Search for `Purple Space Dreams`.
+3.  Click **Install**.
+4.  Open the **Command Palette** (`Ctrl+Shift+P`), type `Color Theme` and select **Purple Space Dreams** from the list.
+
+---
+
+## Color Palette 🎨
+
+The theme is built around this color palette:
+
+| Color             | Hex       | Primary Use                |
+| ----------------- | --------- | -------------------------- |
+| Violet            | `#1b0b4c` | Editor Background          |
+| Minsk             | `#3c2c8c` | UI Backgrounds (sidebar)   |
+| Blue Violet       | `#5f5fb4` | Selections & Highlights    |
+| Heliotrope        | `#9e7aff` | Keywords                   |
+| Mauve             | `#d2a8ff` | Variables                  |
+| Aquamarine Blue   | `#7fd4e1` | Punctuation & Operators    |
+| Froly Pink        | `#f06090` | Classes & HTML Tags        |
+| Observatory Green | `#009474` | Strings                    |
+| Texas Yellow      | `#ffb84d` | Functions & Methods        |
+
+---
+
+## License
+
+Distributed under the [MIT License](LICENSE).
+
+---
+
+**Enjoy the theme and happy coding!**
