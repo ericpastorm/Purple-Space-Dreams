@@ -14,8 +14,6 @@ Here's how **Purple Space Dreams** looks in action.
 **HTML & CSS**
 ![HTML and CSS Screenshot](./screenshots/html-css.png)
 
-*(Note: You will need to create a `screenshots` folder in your project and add your own screenshots with these filenames for them to appear here.)*
-
 ---
 
 ## Installation
